@@ -125,7 +125,7 @@ body{
     .container{
         display: flex;
         flex-direction: column;
-        margin-top:160%;
+        margin-top:100%;
         width: 100%;
         padding: 3%;
     }
