@@ -126,7 +126,6 @@ body{
         flex-direction: column;
         width: 100%;
         padding: 3%;
-        margin-top:100%; 
         align-items: center;
     }
     .user-actions{
