@@ -130,6 +130,7 @@ body{
         display: flex;
         flex-direction: column;
         width: 100%;
+<<<<<<< HEAD
         padding: 5%;
         align-items: center;
         justify-content: center;
@@ -137,6 +138,10 @@ body{
     }
     .info-details{
         margin-top: 180%;
+=======
+        padding: 3%;
+        align-items: flex-start;
+>>>>>>> c919bd2bb3f6c576c75f8a5056a0feb9fc5528f1
     }
     .user-actions{
         display: flex;
@@ -175,8 +180,11 @@ body{
         justify-content: space-between;
     }
 }
+<<<<<<< HEAD
 @media (min-width:768px) and (max-width:1023px) {
     .container{
         padding: 2%;
     }
 }
+=======
+>>>>>>> c919bd2bb3f6c576c75f8a5056a0feb9fc5528f1
